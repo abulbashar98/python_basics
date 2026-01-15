@@ -41,7 +41,7 @@ occurrence_of_unknown = T.count(26)
 
 
 #* index() ->(get index of first occurrence)
-# print(T.index(19))
+print(T.index(19))
 #> 9
 
 
