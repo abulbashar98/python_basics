@@ -84,7 +84,7 @@ def  total(*numbers):
 #> 30
 
 
-#* Example 8: function with kwargs(keyword arguments)
+#* Example 8: function with **kwargs(keyword argument variables)
 
 def info(**details):
     print(details)
